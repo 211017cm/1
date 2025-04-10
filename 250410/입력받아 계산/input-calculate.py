@@ -1,2 +1,2 @@
-a=int(input("정수:"))
+a=int(input())
 print(a+2)
