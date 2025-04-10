@@ -1,3 +1,3 @@
-a=int(inout())
-b=int(input())
+a=input().split()
+b=input().split()
 print(a*b)
